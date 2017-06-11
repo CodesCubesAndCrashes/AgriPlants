@@ -27,7 +27,7 @@
         "max": 2,
         "chance": 0.95,
         "required": true,
-        "item": "minecraft:iron_ingot",
+        "item": "minecraft:iron_nugget",
         "meta": 0,
         "tags": "",
         "ignoreMeta": false,
